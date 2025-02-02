@@ -1,0 +1,8 @@
+TrainedModels/
+TrainingCheckpoints/
+MMLUTrainingCheckpoints/
+MMLU_1000_steps/
+Dataset /
+1000_steps/
+SmolLM/
+MMLU_training_history.pkl
