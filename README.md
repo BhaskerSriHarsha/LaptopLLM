@@ -1,9 +1,19 @@
 # LaptopLLM
-Attempt to instruction-tune a SLM on a laptop with 4GB graphics card
+Here is an interesting attempt to Instruction tune a language model on a laptop.
+INSERT IMAGES HERE
 
-To be added:
+## Introduction
+1. ATTACH TEXTBOOKS ARE ALL YOU NEED PAPER REFERENCE HERE
+2. INSERT SAMPLE RESPONSE HERE
 
-1. Datset details
-2. Training parameters details
-3. System details
-4. Training run details
+## Hardware details
+
+## Dataset details
+
+## Training parameters details
+
+## Add To-Try
+1. Mixed precision training
+2. Flash attention
+3. Loss on response only
+4. Torch tools - ??
