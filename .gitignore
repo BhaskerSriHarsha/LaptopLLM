@@ -1,8 +1,7 @@
-TrainedModels/
-TrainingCheckpoints/
-MMLUTrainingCheckpoints/
-MMLU_1000_steps/
-Dataset /
 1000_steps/
+MMLU_1000_steps/
+MMLUTrainingCheckpoints/
+TrainedModels/
 SmolLM/
-MMLU_training_history.pkl
+TrainingCheckpoints/
+.ipynb_checkpoints/
