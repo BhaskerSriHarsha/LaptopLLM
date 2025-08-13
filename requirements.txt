@@ -4,3 +4,5 @@ accelerate
 datasets
 jupyterlab
 trl
+peft
+bitsandbytes
